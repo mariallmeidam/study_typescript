@@ -202,7 +202,7 @@ class Filha implements Interface {
 Instalação globalmente
 
 ```
-npm -i typescript
+npm i -g typescript
 ```
 
 Verificação da instalação
