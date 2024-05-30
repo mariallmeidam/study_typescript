@@ -69,6 +69,7 @@ frase legal = 10 // Não é possivel
 -  Null
 -  Undefined
 -  Void | Tipo de função que não retorna nenhum valor
+-  Type | Define um tipo ( type ID: number | string)
 
 ## Programação Orientada a Objetos
 

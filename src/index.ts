@@ -1,2 +1,2 @@
-let x: number = 10;
+const x: number = 10;
 console.log(x);
